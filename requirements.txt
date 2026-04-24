@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+langgraph
+playwright
+gradio
+python-dotenv
+requests
+pydantic
